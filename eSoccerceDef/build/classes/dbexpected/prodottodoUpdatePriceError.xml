@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+<prodotto code='1' urlimage='/images/magliettapsg.png' nome='Maglietta PSG Home 2021/2022' marca='Nike Jordan' descrizione='Maglietta PSG Home 2021/2022 Authentic Man' prezzo='65' quantita='50' taglia='M' numero='0' dimensione='NULL' tipo='NULL' />
+<prodotto code='2' urlimage='/images/magliettajuve.png' nome='Maglietta Juventus Home 2021/2022' marca='Adidas' descrizione='Maglietta Juventus Home 2021/2022' prezzo='65' quantita='50' taglia='M' numero='0' dimensione='NULL' tipo='NULL' />
+<prodotto code='3' urlimage='/images/magliettamanutd.png' nome='Maglietta Manchester United Home 2021/2022' marca='Adidas' descrizione='Maglietta Manchester United Home 2021/2022' prezzo='65' quantita='50' taglia='XL' numero='0' dimensione='NULL' tipo='NULL' />
+<prodotto code='4' urlimage='/images/magliettarealmadrid.png' nome='Maglietta Real Madrid Home 2021/2022' marca='Adidas' descrizione='Maglietta Real Madrid Home 2021/2022' prezzo='90' quantita='50' taglia='S' numero='0' dimensione='NULL' tipo='NULL' />
+<prodotto code='5' urlimage='/images/magliettabvb.png' nome='Maglietta Borussia Dortmund Home 2021/2022' marca='Puma' descrizione='Maglietta Borussia Dortmund Home 2021/2022' prezzo='65' quantita='50' taglia='3XL' numero='0' dimensione='NULL' tipo='NULL' />
+<prodotto code='6' urlimage='/images/magliettachelsea.png' nome='Maglietta Chelsea Home 2021/2022' marca='Nike' descrizione='Maglietta Chelsea Home 2021/2022' prezzo='75' quantita='50' taglia='M' numero='0' dimensione='NULL' tipo='NULL' />
+<prodotto code='7' urlimage='/images/pantaloncinibvb.png' nome='Pantaloncini Borussia Dortmund Home 2021/2022' marca='Puma' descrizione='Pantaloncini Borussia Dortmund Home 2021/2022' prezzo='45' quantita='50' taglia='M' numero='0' dimensione='NULL' tipo='NULL' />
+<prodotto code='8' urlimage='/images/pantaloncinichelsea.png' nome='Pantaloncini Chelsea Home 2021/2022' marca='Nike' descrizione='Pantaloncini Chelsea Home 2021/2022' prezzo='35' quantita='40' taglia='M' numero='0' dimensione='NULL' tipo='NULL' />
+<prodotto code='9' urlimage='/images/pantaloncinijuve.png' nome='Pantaloncini Juventus Home 2021/2022' marca='Adidas' descrizione='Pantaloncini Juventus Home 2021/2022' prezzo='35' quantita='40' taglia='M' numero='0' dimensione='NULL' tipo='NULL' />
+<prodotto code='10' urlimage='/images/calzettonijuve.png' nome='Calzettoni Juventus Home 2021/2022' marca='Adidas' descrizione='Calzettoni Juventus Home 2021/2022' prezzo='15' quantita='20' taglia='NULL' numero='46' dimensione='NULL' tipo='NULL' />
+<prodotto code='11' urlimage='/images/tiempo.png' nome='Scarpe Calcio Nike Tiempo 9 Electric Blue' marca='Nike' descrizione='Scarpe Calcio Nike Tiempo 9 Electric Blue' prezzo='39' quantita='50' taglia='NULL' numero='47' dimensione='NULL' tipo='NULL' />
+<prodotto code='12' urlimage='/images/pegasus.png' nome='Scarpe Running Nike Air Zoom Pegasus Pink' marca='Nike' descrizione='Scarpe Running Nike Air Zoom Pegasus Pink' prezzo='39' quantita='50' taglia='NULL' numero='42' dimensione='NULL' tipo='NULL' />
+<prodotto code='13' urlimage='/images/orologiomilan.png' nome='Gadget Orologio Milan Da Polso Black' marca='Puma' descrizione='Gadget Orologio Milan Da Polso Black' prezzo='25' quantita='50' taglia='NULL' numero='0' dimensione='NULL' tipo='Orologio' />
+<prodotto code='14' urlimage='/images/portachiavicalcio.png' nome='Gadget Portachiavi Calcio Gold' marca='Gold' descrizione='Gadget Portachiavi Calcio Gold' prezzo='15' quantita='10' taglia='NULL' numero='0' dimensione='NULL' tipo='Portachiavi' />
+<prodotto code='15' urlimage='/images/borsonenike.png' nome='Borsone Nike New Style Red' marca='Nike Jordan' descrizione='Borsone Nike New Style Red Authentic Man/Woman' prezzo='55' quantita='50' taglia='NULL' numero='0' dimensione='50x70x90' tipo='NULL' />
+<prodotto code='16' urlimage='/images/parastinchinike.png' nome='Parastinchi Nike Red + Accessories' marca='Nike' descrizione='Parastinchi Nike Red Authentic + Accessories' prezzo='15' quantita='50' taglia='NULL' numero='0' dimensione='NULL' tipo='Parastinchi' />
+
+
+</dataset>

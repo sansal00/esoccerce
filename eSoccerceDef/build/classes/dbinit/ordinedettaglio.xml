@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+<ordinedettaglio code='1' urlimage='/images/magliettapsg.png' nome='Maglietta PSG Home 2021/2022' marca='Nike Jordan' descrizione='Maglietta PSG Home 2021/2022 Authentic Man' prezzo='65' quantitaacquistata='45' taglia='M' numero='0' dimensione='NULL' tipo='NULL' id='2342'/>
+<ordinedettaglio code='11' urlimage='/images/tiempo.png' nome='Scarpe Calcio Nike Tiempo 9 Electric Blue' marca='Nike' descrizione='Scarpe Calcio Nike Tiempo 9 Electric Blue' prezzo='39' quantitaacquistata='3' taglia='NULL' numero='47' dimensione='NULL' tipo='NULL' id='2342'/>
+<ordinedettaglio code='5' urlimage='/images/magliettabvb.png' nome='Maglietta Borussia Dortmund Home 2021/2022' marca='Puma' descrizione='Maglietta Borussia Dortmund Home 2021/2022' prezzo='65' quantitaacquistata='45' taglia='3XL' numero='0' dimensione='NULL' tipo='NULL' id='2345'/>
+<ordinedettaglio code='12' urlimage='/images/pegasus.png' nome='Scarpe Running Nike Air Zoom Pegasus Pink' marca='Nike' descrizione='Scarpe Running Nike Air Zoom Pegasus Pink' prezzo='39' quantitaacquistata='3' taglia='NULL' numero='42' dimensione='NULL' tipo='NULL' id='2345'/>
+</dataset>

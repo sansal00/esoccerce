@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+<ordine id='2342' totale='3042' numerocarta='5254344324670943' cvc='983' datascadenza="10/24" nomeintestatario='Bruno' cognomeintestatario='Farano' dataordine='01/01/2023' spedizione='Spedizione in 3 giorni' email='brunofarano@outlook.it'/>
+<ordine id='2345' totale='3042' numerocarta='5254344324670943' cvc='983' datascadenza="10/24" nomeintestatario='Bruno' cognomeintestatario='Farano' dataordine='29/12/2022' spedizione='Spedizione in 5 giorni' email='brunofarano@outlook.it'/>
+</dataset>

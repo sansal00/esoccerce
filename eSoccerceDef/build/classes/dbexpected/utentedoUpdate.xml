@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+<utente email='admin@admin.it' password='admin' nome='Administrator' cognome='eSoccerce' indirizzo='Via Verde, 12' citta='Genova'/>
+<utente email='brunofarano@outlook.it' password='Bruno2000' nome='Bruno' cognome='Farano' indirizzo='Via Giallo, 15' citta='Salerno'/>
+</dataset>
